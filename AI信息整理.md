@@ -1,7 +1,7 @@
 
-##  AI信息整理
+#  AI信息整理
 
-# 一、文字交互
+## 一、文字交互
 1.chatGPT  
 https://chat.openai.com/	体检较好  
 2.百度文心一言  
@@ -16,7 +16,7 @@ https://www.chatanywhere.top/
 https://chatweb.xiaomaichat.cn/	拿开源项目搭建的，接的gpt3.5  
 
 
-# 二、文生图		
+## 二、文生图		
 1.Midjourney  
 https://www.midjourney.com/	国外-专业文生图-收费  
 2.VegaAI  
@@ -25,14 +25,14 @@ https://rightbrain.art/	国内免费
 https://app.slack.com/	可以集成Midjourney、Claude(接的gpt4.0)  
 
 
-# 三、文生视频		
+## 三、文生视频		
 1.一帧秒创  
 https://aigc.yizhentv.com/	国内的，文案自动生成视频，可微调，方便易用  
 2.D-ID  
 https://studio.d-id.com/	国外的，感觉不是很智能  
 
 
-# 四、插件、小程序、公众号等		
+## 四、插件、小程序、公众号等		
 1.Bito(idea插件)  
 idea可直接搜索安装；挺好用，大大提高开发效率，免费  
 2.热卜周易易经排盘(微信小程序)  
@@ -45,7 +45,7 @@ AI细分领域，涵盖汽车、法律、小红书文案等
 https://www.chatpdf.com/	文档解读，大大提高阅读速度  
 
 
-# 五、信息获取渠道		
+## 五、信息获取渠道		
 1.chatGPT基地  
 https://wx.zsxq.com/dweb2/index/group/15552545185512	知识星球(付费)  
 2.github  
@@ -58,4 +58,4 @@ https://twitter.com/	get业界新闻，获取一手消息
 https://www.bilibili.com/	国内中视频做的比较好的，各种教程比较全  
 
 
-# PS:以上许多都需要科学上网才能访问！
+## PS:以上许多都需要科学上网才能访问！
